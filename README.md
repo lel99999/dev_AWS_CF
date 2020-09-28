@@ -1,2 +1,2 @@
 # dev_Okta
-Okta Development and Testing wiht CloudFormation
+Okta Development and Testing
